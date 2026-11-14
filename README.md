@@ -173,4 +173,4 @@ To use your own Firebase project, replace the config in `frontend/src/firebase.j
 ## 👤 Author
 
 **Mohamed Shanis**
-[LinkedIn](https://www.linkedin.com/in/mohamed-shanis) · [GitHub](https://github.com/notmg7) · mohamedshanis006@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohamed-shanis) · [GitHub](https://github.com/mohamedshanis) · mohamedshanis006@gmail.com
